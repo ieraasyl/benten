@@ -1,0 +1,26 @@
+# Binaries
+benten
+benten.exe
+auth
+auth.exe
+
+# Session files
+*.dat
+session.*
+
+# Environment
+.env
+
+# Local config (contains sensitive user IDs)
+config.yaml
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
