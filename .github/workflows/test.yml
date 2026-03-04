@@ -1,6 +1,6 @@
 # Benten: run daily countdown (100→67) via Telegram user bot.
 # Cron is in UTC. 06:00 UTC = 12:00 Asia/Almaty.
-name: Daily countdown
+name: Test
 
 on:
   schedule:
